@@ -31,22 +31,11 @@ This project is an Integrated Online Banking Management System implemented in C.
 - If you log in as a user, you can perform various banking operations, including deposit, withdrawal, money transfer, and password change.
 
 
-## Run the program
-
-1.Clone this repository
-```bash
-  code
-```
-2.Compile the Code
-
-```bash
- code
-```
-3.Run the Program
-
-```bash
- code
-```
+## Installation
+To compile and run the project, follow these steps:
+- Clone the repository.
+- Compile the main.c file.
+- Run the compiled binary.
 
 
 ## Screenshots
