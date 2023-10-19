@@ -1,7 +1,3 @@
-Integrated Online
-Banking Management
-System
-Project Overview:
 This project is an Integrated Online Banking Management System implemented in C. It allows
 users to create and manage bank accounts, perform transactions with real time and provides
 administrative functions. The system includes features like creating new accounts, depositing
